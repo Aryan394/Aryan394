@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN, EJS**
 
-- 📫 How to reach me **singharyan2402@gmail.com**
+- 📫 Reach me at: **singharyan2402@gmail.com**
 
 </p>
 
