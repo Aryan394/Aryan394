@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React JS, DSA**
 
-- 💬 Ask me about **MERN, EJS**
+- 💬 Ask me about **MERN stack**
 
 - 📫 Reach me at: **singharyan2402@gmail.com**
 
